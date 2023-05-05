@@ -2,6 +2,7 @@ body {
     background-image: url(/StarGeek/img/inicio.png);
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
 }
 body{
     background-color: var(--preto);
